@@ -6,6 +6,8 @@ public class Hello {
 		// TODO Auto-generated method stub
 		System.out.println("Hello world - Omera ma!!!");
 		System.out.println("First commit.");
+		System.out.println("Seccond commit.");
+		
 	}
 
 }
